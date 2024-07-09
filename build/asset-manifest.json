@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41bbdc4a.css",
+    "main.js": "/static/js/main.b1c826b8.js",
+    "static/js/453.f7b50207.chunk.js": "/static/js/453.f7b50207.chunk.js",
+    "static/media/png-1.png": "/static/media/png-1.49bb16ddc3b60162d13e.png",
+    "static/media/astro-bg-1.jpg": "/static/media/astro-bg-1.6fc7b81217ab7d6a2d58.jpg",
+    "index.html": "/index.html",
+    "main.41bbdc4a.css.map": "/static/css/main.41bbdc4a.css.map",
+    "main.b1c826b8.js.map": "/static/js/main.b1c826b8.js.map",
+    "453.f7b50207.chunk.js.map": "/static/js/453.f7b50207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41bbdc4a.css",
+    "static/js/main.b1c826b8.js"
+  ]
+}
